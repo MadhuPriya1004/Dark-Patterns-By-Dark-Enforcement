@@ -52,7 +52,7 @@ git clone https://github.com/yourusername/dark-patterns-repository.git
 
 **Load Extensions into Chrome:**
 
-1. Go to chrome://extensions/
+1. Go to ```bash chrome://extensions/  ```bash
 2. Enable "Developer mode"
 3. Click on "Load unpacked"
 4. Select the folder containing the desired extension
