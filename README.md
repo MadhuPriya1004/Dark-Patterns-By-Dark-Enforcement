@@ -27,38 +27,37 @@ This repository identifies and categorizes common dark patterns, including but n
 **Browser Extensions**
 This repository includes several browser extensions designed to detect and mitigate these patterns:
 
-1. Fake Urgency Detector
+1. **Fake Urgency Detector**
 Manages and identifies time-sensitive elements such as countdown timers.
 Highlights timers on web pages to help users navigate fake urgency.
-2. Ad Detector
+2. **Ad Detector**
 Highlights ads on web pages with a distinctive red border.
 Tracks the number of ads encountered and warns users against misleading advertisements.
-3. Nagging Detector
+3. **Nagging Detector**
 Identifies intrusive pop-ups based on frequency, type, and size.
 Notifies users if pop-ups surpass a disruption threshold.
-4. Volume Extension (Accessibility Tool)
+4. **Volume Extension (Accessibility Tool)**
 Designed for blind users, this extension uses machine learning to detect dark patterns within website content.
 Provides visual and spoken alerts via a text-to-speech engine to enhance accessibility and promote a safer online experience.
-5. Confirm Shaming Detector
+5. **Confirm Shaming Detector**
 Uses machine learning to identify confirm-shaming language patterns in web content.
 Alerts users when manipulative language is detected, providing control and awareness during their browsing experience.
 
 **Installation & Usage**
 Each extension can be installed directly from the Chrome Web Store or by downloading the respective .crx file from the repository.
 
-Clone the Repository:
-
-bash
-
+**Clone the Repository:**
 git clone https://github.com/yourusername/dark-patterns-repository.git
-Load Extensions into Chrome:
 
-Go to chrome://extensions/
-Enable "Developer mode"
-Click on "Load unpacked"
-Select the folder containing the desired extension
-Contributing
+**Load Extensions into Chrome:**
+
+1. Go to chrome://extensions/
+2. Enable "Developer mode"
+3. Click on "Load unpacked"
+4. Select the folder containing the desired extension
+
+**Contributing**
 We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request. Be sure to follow our Contribution Guidelines.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
