@@ -44,20 +44,26 @@ Uses machine learning to identify confirm-shaming language patterns in web conte
 Alerts users when manipulative language is detected, providing control and awareness during their browsing experience.
 
 **Installation & Usage**
-Each extension can be installed directly from the Chrome Web Store or by downloading the respective .crx file from the repository.
 
-**Clone the Repository:**
-```bash git clone https://github.com/yourusername/dark-patterns-repository.git
+Each extension can be installed directly from the Chrome Web Store or by downloading the respective `.crx` file from the repository.
 
-**Load Extensions into Chrome:**
+1. **Clone the Repository:**
 
-1. Go to ```bash chrome://extensions/  
-2. Enable "Developer mode"
-3. Click on "Load unpacked"
-4. Select the folder containing the desired extension
+    ```bash
+    git clone https://github.com/MadhuPriya1004/dark-patterns-repository.git
+    ```
 
-**Contributing**
-We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request. Be sure to follow our Contribution Guidelines.
+2. **Load Extensions into Chrome:**
 
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+    - Go to `chrome://extensions/`
+    - Enable "Developer mode"
+    - Click on "Load unpacked"
+    - Select the folder containing the desired extension
+
+## Contributing
+
+We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request. Be sure to follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
