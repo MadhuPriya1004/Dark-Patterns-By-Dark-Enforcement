@@ -47,6 +47,7 @@ Alerts users when manipulative language is detected, providing control and aware
 Each extension can be installed directly from the Chrome Web Store or by downloading the respective .crx file from the repository.
 
 **Clone the Repository:**
+```bash
 git clone https://github.com/yourusername/dark-patterns-repository.git
 
 **Load Extensions into Chrome:**
